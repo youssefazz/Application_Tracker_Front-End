@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "imei": "546456146145",
+        "user": {
+            "dateNaissance": "2021-12-09T15:50:00.015Z[UTC]",
+            "email": "azzouz@gmail.com",
+            "id": 1,
+            "nom": "azzouz",
+            "prenom": "youssef",
+            "telephone": "069852514"
+        }
+    }
+]
